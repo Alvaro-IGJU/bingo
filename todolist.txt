@@ -1,0 +1,9 @@
+Todo:
+
+-Basic bingo balls X IGJU
+-Start button
+-Pause button
+-Mesclator
+-Restart button
+-Save cookies
+-Cool styles
