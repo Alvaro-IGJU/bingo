@@ -1,0 +1,23 @@
+#numbers{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    gap: 10px; /* Espacio entre filas y columnas */
+
+}
+
+.number-ball{
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+}
+
+.green-ball{
+    background-color: green;
+}
+
+.red-ball{
+    background-color: red;
+}
