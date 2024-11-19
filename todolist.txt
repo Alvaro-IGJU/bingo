@@ -1,7 +1,7 @@
 Todo:
 
 -Basic bingo balls X IGJU
--Start button
+-Start button ~ Koji
 -Pause button
 -Mesclator
 -Restart button
