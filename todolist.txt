@@ -1,9 +1,10 @@
 Todo:
 
 -Basic bingo balls X IGJU
--Start button
--Pause button
+-Start button X Koji
+-Pause button X Koji
+-Get next number button X Koji
 -Mesclator
--Restart button
+-Restart button X Koji
 -Save cookies
 -Cool styles
